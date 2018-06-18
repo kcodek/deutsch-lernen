@@ -34,6 +34,7 @@
 | liegen (to lie/be located) |liege  |liegst  |liegt  | liegt |liegt  |liegen  |liegt  |liegen   |liegen 
 | machen (to do) |mache  |machst  |macht  | macht |macht  |machen  |macht  |machen   |machen
 | meinen (to mean/think/have an opinion) |meine  |meinst  |meint  | meint |meint  |meinen  |meint  |meinen   |meinen
+| möchten (would like) |möchte  |möchtest  |möchte  | möchte |möchte  |möchten  |möchtet  |möchten   |möchten  
 | mögen (to like) |mag  |magst  |mag  | mag |mag  |mögen  |mögt  |mögen   |mögen 
 | müssen (must/to have to) |muss  |musst  |muss  | muss |muss  |müssen  |müsst  |müssen   |müssen 
 | nehmen (to take)  |nehme  |nimmst  |nimmt  | nimmt |nimmt  |nehmen  |nehmt  |nehmen  |nehmen
@@ -41,7 +42,7 @@
 | sagen (to say) |sage  |sagst  |sagt  | sagt |sagt  |sagen  |sagt  |sagen   |sagen 
 | sehen (to see) |sehe  |siehst  |sieht  | sieht |sieht  |sehen  |seht  |sehen   |sehen
 | setze (to set,place,put)) |setze  |setzt  |setzt  | setzt |setzt  |setzen  |setzt  |setzen   |setzen
-| sollen (should) |soll  |sollst  |soll  | soll |soll  |sollen  |sollt  |sollen   |sollen 
+| sollen (should, to be supposed to) |soll  |sollst  |soll  | soll |soll  |sollen  |sollt  |sollen   |sollen 
 | spielen (to play) |spiele  |spielst  |spielt  | spielt |spielt  |spielen  |spielt  |spielen   |spielen 
 | sprechen (to speak) |spreche  |sprichst  |spricht  | spricht |spricht  |sprechen  |sprecht  |sprechen |sprechen
 | stehen (to stand) |stehe  |stehst  |steht  | steht |steht  |stehen  |steht  |stehen   |stehen
