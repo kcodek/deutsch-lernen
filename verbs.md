@@ -11,6 +11,7 @@
 | brauchen  (to need) |brauche  |brauchst  |braucht  | braucht |braucht  |brauchen    |braucht    |brauchen   |brauchen 
 | bringen (to bring/take along) |bringe  |bringst  |bringt  | bringt |bringt  |bringen  |bringt  |bringen |bringen
 | denken (to think)  |denke  |denkst  |denkt  | denkt |denkt  |denken  |denkt  |denken  |denken
+| drücken (to push) |  |  |  |  |  |  |  |   | 
 | dürfen (may/to be allowed to)  |darf  |darfst  |darf  | darf |darf  |dürfen  |dürft  |dürfen  |dürfen
 | erzählen (to tell/know)) |erzähle  |erzählst  |erzählt  | erzählt |erzählt  |erzählen  |erzählt   |erzählen   |erzählen 
 | fahren (to drive/ride/go) |fahre  |fährst  |fährt  | fährt |fährt  |fahren  |fahrt  |fahren   |fahren
@@ -25,6 +26,7 @@
 | haben (to have) |habe  |hast  |hat  | hat |hat  |haben  |habt  |haben  |haben
 | halten (to stop/hold) |halte  |hälst  | hält  | hält |hält  |halten  |haltet  |halten   |halten
 | heißen (to mean/to be called) |heiße  |heißt  |heißt  | heißt |heißt  |heißen  |heißt  |heißen   |heißen
+| kaufen (to buy) |  |  |  |  |  |  |  |   | 
 | kennen (to know (used with nouns)) |kenne  |kennst  |kennt  | kennt |kennt  |kennen  |kennt  |kennen   |kennen 
 | kommen (to come) |komme  |kommst  |kommt  | kommt |kommt  |kommen  |kommt  |kommen   |kommen 
 | können (can) |kann  |kannst  |kann  | kann |kann  |können  |könnt  |können   |können
@@ -49,10 +51,36 @@
 | stellen (to place/put,set) |stelle  |stellst  |stellt  | stellt |stellt  |stellen  |stellt  |stellen   |stellen 
 | tun (to do)  |tue  |tust  |tut  | tut | tut  |tun  |tut  |tun  |tun
 | verstehen (to understand)) |verstehe  |verstehst  |versteht  | versteht |versteht  |verstehen  |versteht  |verstehen   |verstehen
+| verkaufen (to sell)|  |  |  |  |  |  |  |   |
+| verlängern (to extend, to renew) |  |  |  |  |  |  |  |   |
+| vermissen (to miss someone/something) |  |  |  |  |  |  |  |   |
+| verpassen (to miss out on something) |  |  |  |  |  |  |  |   |
+| verschieben (to postpone) |  |  |  |  |  |  |  |   |
+| sich verlaufen (to get lost while walking) |  |  |  |  |  |  |  |   |
+| sich verfahren (to get lost while driving) |  |  |  |  |  |  |  |   |
+| sich verändern (to change) |  |  |  |  |  |  |  |   |
+| verbessern (to improve) |  |  |  |  |  |  |  |   |
+| versuchen(to try) |  |  |  |  |  |  |  |   |
+| verbeiten(to forbid) |  |  |  |  |  |  |  |   |
+| vergessen(to forget ) |  |  |  |  |  |  |  |   |
+| verbinden(to put someone through (a phone), to connect) |  |  |  |  |  |  |  |   |
+| verhandeln(to negotiate) |  |  |  |  |  |  |  |   |
+| vertreten(to represent) |  |  |  |  |  |  |  |   |
+| verfolgen(to chase someone, to purse) |  |  |  |  |  |  |  |   |
+| verfügen + über (to have something available) |  |  |  |  |  |  |  |   |
+| vertrauen (to trust someone) |  |  |  |  |  |  |  |   |
+| vertauschen(to swap something by accident) |  |  |  |  |  |  |  |   |
+| sich verschreiben(to make a spelling error, a typo) |  |  |  |  |  |  |  |   |
+| verschreiben(to prescribe something) |  |  |  |  |  |  |  |   |
+| verzichten (to do without something, to give something up) |  |  |  |  |  |  |  |   |
+|sich verhalten (to act, to behave) |  |  |  |  |  |  |  |   |
 | werden (to become/will(fut.))  |werde  |wirst  |wird  | wird |wird  |werden  |werdet  |werden  |werden
 | wissen (to know) |weiß  |weißt  |weiß  | weiß |weiß  |wissen  |wisst  |wissen   |wissen 
 | wollen (to want) |will  |willst  |will  | will |will  |wollen  |wollt  |wollen   |wollen 
 | zeigen (to show) |zeige  |zeigst  |zeigt  | zeigt |zeigt  |zeigen  |zeigt  |zeigen   |zeigen
+| (to  ) |  |  |  |  |  |  |  |   |
+| (to  ) |  |  |  |  |  |  |  |   |
+
 
 
 
