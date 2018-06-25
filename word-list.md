@@ -97,19 +97,17 @@
 |  	| Apparat     |   |
 |  	| April |   |
 |  	| April | April      |
-|  	| Arbeit      | job  |
+| die	| Arbeit      | job  |
 |  	| Arbeiten    | to work    |
-|  	| Arbeitgeber, Arbeitgeberin  | employer   |
-|  	| Arbeitnehmer |   |
-|  	| Arbeitnehmer, der  | employee   |
-|  	| Arbeitsagentur     |   |
-|  	| Arbeitsanweisun    |   |
-|  	| arbeitslos  |   |
-|  	| Arbeitslose, der/die     |   |
-|  	| Arbeitslosigkeit, die    |   |
-|  	| Arbeitsmarkt, der  |   |
-|  	| Arbeitsplatz |   |
-|  	| Arbeitszeit  |   |
+| der  	| Arbeitgeber, Arbeitgeberin  | employer   |
+| der 	| Arbeitnehmer | employee |
+|  	| Arbeitsagentur     | employment agency  |
+|  	| Arbeitsanweisung    | operating procedure  |
+| der	| Arbeitslose  | unemployed  |
+| die 	| Arbeitslosigkeit | unemployment  |
+| der 	| Arbeitsmarkt | labour market |
+| der	| Arbeitsplatz | workplace  |
+| die 	| Arbeitszeit  | working hours |
 |  	| Arbeitszimmer      |   |
 |  	| Architekten  | architect  |
 |  	| Architektur  |   |
@@ -691,6 +689,7 @@
 |  	| gerät, das  | device     |
 |  	| gern  | like, prefer  |
 |  	| gesagt      | told |
+|  	| gesamt      | total|
 |  	| geschaft    |   |
 |  	| Geschäftsführer    | manager, managers, CEO |
 |  	| geschenk    | gifts      |
@@ -1086,7 +1085,7 @@
 |  	| lesen | to read    |
 |  	| letate      |   |
 |  	| letzeburgisch      | Luxembourgish |
-|  	| letzte      | final, last   |
+|das| letzte      | final, last   |
 |  	| leute | people     |
 |  	| licht | light      |
 |  	| lieb haben  | love |
@@ -1277,7 +1276,7 @@
 |  	| Nivea |   |
 |  	| noch  |   |
 |  	| noch einmal  |   |
-|  	| Norden      |   |
+| der| Norden      | North |
 |  	| nordlich von |   |
 |  	| normal      |   |
 |  	| Normalerweise      | usually    |
@@ -1437,7 +1436,8 @@
 |  	| Regierungsviertel  |   |
 |  	| Region      |   |
 |  	| regional    |   |
-|  	| regnen      |   |
+| der 	| regnen | rain  |
+|  	| regnet | raining  |
 |  	| Reihe |   |
 |  	| Reihenfolge  |   |
 |  	| rein  | purely     |
@@ -1588,7 +1588,7 @@
 |  	| selbst      | even |
 |  	| selbsttest  | self-test  |
 |  	| selbstverständlich | of course, self-evident|
-|  	| selten      | seldom     |
+|  	| selten      | seldom, rare     |
 |  	| seltsam     | strange    |
 |  	| semester    |   |
 |  	| seminar     |   |
@@ -1623,8 +1623,8 @@
 |  	| Sofa  |   |
 |  	| sofort      | right away |
 |  	| Software    |   |
-|  	| Sogar |   |
-|  	| Sohn, der   | son  |
+|  	| sogar | even  |
+| der| Sohn    | son  |
 |  	| sollen      | should     |
 |  	| Sommer, der  | summer     |
 |  	| Sonne |   |
@@ -1661,12 +1661,13 @@
 |  	| Sportler    |   |
 |  	| Sportlich   |   |
 |  	| Sportstudio  |   |
-|  	| Sprache     |   |
+| die	| Sprache     | language  |
 |  	| Sprachinstitut     |   |
 |  	| Sprachkurs  |   |
 |  	| SprachSchule |   |
-|  	| Spreche/sprecher   | speak      |
-|  	| Sprechen/zu sprechen     | to speak   |
+|  	| sprechen   | to speak      |
+| der  | sprecher| speaker |
+|  	| sprechen zu      | talk to   |
 |  	| Sprechstunde | consultation  |
 |  	| Sprechzeit  | talk time  |
 |  	| spricht     | speaks     |
@@ -1766,7 +1767,7 @@
 |  	| tapfer      | brave      |
 |  	| Tasche      | bag  |
 |  	| Tasse,die   | cup  |
-|  	| Tastatur    |   |
+| die 	| Tastatur    | keyboard  |
 |  	| Tatigkeit   |   |
 |  	| tatsächlich  | really, indeed   |
 |  	| Tauschen    |   |
@@ -2075,7 +2076,7 @@
 |  	| wohnformen  | living forms  |
 |  	| wohnung     | flat |
 |  	| wohnzimmer  | living room   |
-|  	| wolke | cloud      |
+| die	| wolke | cloud      |
 |  	| wollen      | want |
 |  	| wollen/wolle | wool |
 |  	| wort  | word |
