@@ -1,18 +1,56 @@
 ### Deutsch - Prepositions - Accusative 
 
+#### ACCUSATIVE PREPOSITIONS
+Accusative prepositions always trigger the accusative case.
+|   |   |   |   |   |
+|---|---|---|---|---|
+|bis| by, to, until, upto | bis nächste Woche|until next week|  
+|durch|through,across|Wir gehen durch das Tor|We're walking through the gate|   
+|für|for| Er kocht für seine Freundin|He cooks for his girlfriend|
+|gegen|against, for| gegen die Mauer|Against the wall|
+|ohne|without|ohnne Wasser|without water|
+|um|at, around|um Mitternacht|at midnight|
+|entlang|along, down|Sie fährt die Straße entlang|She drives down the street|
+|   |   |   |   |
+
 #### DATIVE PREPOSITIONS
 Dative prepositions always trigger the dative case.
 Here they are: aus, außer, bei, gegenüber, mit, nach, seit, von, zu
 
-#### ACCUSATIVE PREPOSITIONS
-Accusative prepositions always trigger the accusative case.
-Here they are: bis, durch, für, gegen, ohne, um
+|   |   |   |   |   |
+|---|---|---|---|---|
+|aus|from, out of| aus dem Supermarkt| from the supermarket|
+|außer|apart from, except for| alle außer mir| all except me|
+|bei|at, near| bei meinem Vater Haus  | at my dad's house|
+|gegenüber|opposite|gegenüber dem Bahnhof|opposite the station|
+|mit|with|mit meiner Mutter|with my mom|
+|nach|after,to|nach der Schule| after school|
+|seit|since, for|Seit Februar|Since Febraury|
+|von|from, of|weg von zu Hause| away from home|
+|zu|to|zu den Geschäften gehen|to go the shops|
 
 #### TWO-WAY PREPOSITIONS
 Two-way prepositions take the dative case or the accusative case depending on the context.
 If there's movement from one place to another, use the accusative case.
 If there's no movement or if there's movement within a certain place, use the dative case.
 Here they are: an, auf, entlang, hinter, in, neben, über, unter, vor, zwischen
+
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|an |at, to, on| an einem Ort  | at a place  |
+|auf| on, upon | auf der Erde  | on earth  |
+| hinter  | behind  |   |   |
+| in  | in, into  |   |   |
+| neben| next to, beside   |   |   |
+| zwischen  | between  |   |   |
+| vor  | before, in front of   |   |   |
+| über  | over |   |   |
+| unter  | under |   |   |
+
+
+
+
 
 * No movement -> dative:
 Ich bin in einem Haus (I am in a house)
