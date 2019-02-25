@@ -1,8 +1,7 @@
 
 > In Deutsch haben wir 4 Falle - Nominativ, Accusativ, Dativ, Genitiv
-
-    In Deutsch sind Falle ziemlich wichtig. Ein Fall zeigt die Funktion eines Nomens oder Pronomens in einem Satz
-    "A case shows the function of a noun or pronoun in a sentence"
+  In Deutsch sind Falle ziemlich wichtig. Ein Fall zeigt die Funktion eines Nomens oder Pronomens in einem Satz    
+  `A case shows the function of a noun or pronoun in a sentence`
 
 |Case|function|catch||
 |--|--|--|--|
@@ -11,9 +10,9 @@
 |Dativ|indirektes Objekt| Wem? |"To whom or for whom is something being done?"|
 |Genitiv|Besitz | Wessen? |"Whose?"/"possession"   |	
 
-Ex: Der Hund beisst den Mann 
-      Den Mann beisst der Hund
-	    - "The dog bites the man"
+Ex: Der Hund beisst den Mann
+     _Den Mann beisst der Hund_
+	    ~ "The dog bites the man"
     Der Satz bedeutet das Gleiche - *both mean the same*
 
 Ex: Ich gebe dem Mann das Buch meines Vaters 
@@ -407,11 +406,14 @@ Der Konig Der Lowen - The lion King - "the king of the lions"
 
 Certain masculine nouns are weak and take an n ending in all cases except the nominative
 
-            Singular          plural 
-Nominativ   der Junge       die Jungen
-Accusativ   den Jungen      die Jungen
-Dativ       dem Jungen      den Jungen
-Genitiv     des Jungen      der Jungen
+
+
+||Singular|Plural|
+|--|--|--|
+|Nominativ   |der Junge |      die Jungen|
+|Accusativ   |den Jungen|      die Jungen|
+|Dativ       |dem Jungen|      den Jungen|
+|Genitiv     |des Jungen|      der Jungen|
 
 Weak nouns in german
 masculine nouns which end in e or t and usually refer to people or animals
